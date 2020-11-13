@@ -1,6 +1,6 @@
-﻿namespace WindowsService1
+﻿namespace SimpleHeartBeatService
 {
-    partial class Service1
+    partial class SimpleHeartBeatService
     {
         /// <summary> 
         /// Required designer variable.
@@ -28,8 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
-            this.ServiceName = "Service1";
+            // 
+            // Service1
+            // 
+            this.ServiceName = "SimpleHeartBeatService";
+
         }
 
         #endregion

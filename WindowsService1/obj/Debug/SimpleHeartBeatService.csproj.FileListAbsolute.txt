@@ -1,0 +1,9 @@
+C:\Proyectos\SimpleHeartBeatService\SimpleHeartBeatService\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Proyectos\SimpleHeartBeatService\SimpleHeartBeatService\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Proyectos\SimpleHeartBeatService\SimpleHeartBeatService\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Proyectos\SimpleHeartBeatService\SimpleHeartBeatService\WindowsService1\obj\Debug\SimpleHeartBeatService.csproj.CoreCompileInputs.cache
+C:\Proyectos\SimpleHeartBeatService\SimpleHeartBeatService\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Proyectos\SimpleHeartBeatService\SimpleHeartBeatService\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Proyectos\SimpleHeartBeatService\SimpleHeartBeatService\WindowsService1\obj\Debug\SimpleHeartBeatService.csproj.GenerateResource.cache
+C:\Proyectos\SimpleHeartBeatService\SimpleHeartBeatService\WindowsService1\obj\Debug\SimpleHeartBeatService.ProjectInstaller.resources
+C:\Proyectos\SimpleHeartBeatService\SimpleHeartBeatService\WindowsService1\obj\Debug\SimpleHeartBeatService.SimpleHeartBeatService.resources

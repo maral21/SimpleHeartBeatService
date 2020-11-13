@@ -7,22 +7,27 @@ using System.Linq;
 using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
+using SimpleHeartbeatService;
 
-namespace WindowsService1
+namespace SimpleHeartBeatService
 {
-    public partial class Service1 : ServiceBase
+    [RunInstaller(true)]
+    public partial class SimpleHeartBeatService : ServiceBase
     {
-        public Service1()
+        private HeartBeat heartbeatservice;
+        public SimpleHeartBeatService()
         {
             InitializeComponent();
         }
 
         protected override void OnStart(string[] args)
         {
+            this.heartbeatservice.Start();
         }
 
         protected override void OnStop()
         {
+            this.heartbeatservice.Stop();
         }
     }
 }
